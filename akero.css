@@ -1,0 +1,33 @@
+.log {
+  border:1px solid #ffcccc;
+  margin-bottom:2px;
+  background-color:#ffeeee;
+  font-size: 70%;
+}
+
+.backtrace {
+  display:inline-block;
+  color:grey;margin: 0px 4px 0px 2px;
+}
+
+body { background-color: #cccccc; }
+
+.content {
+background-color: #ffffff;
+margin: 8px;
+padding: 4px;
+min-height: 5em;
+}
+
+
+.log table {
+ cellspacing=0;
+ padding: 4px;
+ border-collapse: collapse;
+ font-size:100%;
+ }
+
+ .log td {
+  border:1px solid grey;
+  padding: 2px 0.5em;
+}
